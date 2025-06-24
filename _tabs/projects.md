@@ -1,5 +1,5 @@
 ---
-layout: projects
-icon: fas fa-stream
+title: Projects
+icon: fas fa-project-diagram
 order: 5
 ---
