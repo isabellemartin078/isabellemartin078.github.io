@@ -6,15 +6,14 @@
 
 // Customising colours: 
 
-
-@media (prefers-color-scheme: light) {
-  html:not([data-mode]), html[data-mode=light] {
-    --sidebar-bg: #e0d2ed !important;
-  }
+:root {
+  --sidebar-bg: #e0d2ed;        // For light mode
+  --sidebar-text: #000000;      // Optional
 }
 
 @media (prefers-color-scheme: dark) {
-  html[data-mode=dark] {
-    --sidebar-bg: #e0d2ed !important;
+  :root {
+    --sidebar-bg: #e0d2ed;      // For dark mode
+    --sidebar-text: #000000;    // Optional
   }
 }
