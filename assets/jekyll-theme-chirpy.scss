@@ -1,0 +1,26 @@
+---
+---
+
+html {
+    @media (prefers-color-scheme: light) {
+      &:not([data-mode]),
+      &[data-mode='light'] {
+        //your styles
+      }
+  
+      &[data-mode='dark'] {
+        //your styles
+      }
+    }
+  
+    @media (prefers-color-scheme: dark) {
+      &:not([data-mode]),
+      &[data-mode='dark'] {
+        //your styles
+      }
+  
+      &[data-mode='light'] {
+        //your styles
+      }
+    }
+  }
