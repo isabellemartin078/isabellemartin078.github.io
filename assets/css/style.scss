@@ -1,11 +1,6 @@
 ---
 ---
 
-// Import Chirpy's default style
-@import "main";  
-
-// Customising colours: 
-
 :root {
   --sidebar-bg: #e0d2ed;        // For light mode
   --sidebar-text: #000000;      // Optional
@@ -17,3 +12,9 @@
     --sidebar-text: #000000;    // Optional
   }
 }
+
+// Import Chirpy's default style
+@import "main";  
+
+// Customising colours: 
+
