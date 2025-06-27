@@ -5,6 +5,15 @@
 
 // Customising colours: 
 
-#sidebar {
-  --sidebar-bg: #e0d2ed;
+
+@media (prefers-color-scheme: light) {
+  html:not([data-mode]), html[data-mode=light] {
+    --sidebar-bg: #e0d2ed !important;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html[data-mode=dark] {
+    --sidebar-bg: #e0d2ed !important;
+  }
 }
