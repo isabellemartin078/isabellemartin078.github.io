@@ -2,14 +2,14 @@
 ---
 
 :root {
-  --sidebar-bg: #e0d2ed;        // For light mode
-  --sidebar-text: #000000;      // Optional
+  --sidebar-bg: #e0d2ed;        
+  --sidebar-text: #000000;     
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --sidebar-bg: #e0d2ed;      // For dark mode
-    --sidebar-text: #000000;    // Optional
+    --sidebar-bg: #e0d2ed;      
+    --sidebar-text: #000000;    
   }
 }
 
