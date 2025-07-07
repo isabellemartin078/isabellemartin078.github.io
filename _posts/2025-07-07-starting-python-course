@@ -1,0 +1,15 @@
+--- 
+
+title: "Starting Python 3"
+date: 2025-07-07 12:00:00 +0900
+tags: [python, bioinformatics]
+
+---
+
+This week, I finished the Excel tutorials by [It’s Matt](https://youtube.com/@itsmatt228?si=K0a75RdMnzjXXUH5) and [Technology for Teachers and Students](https://youtube.com/@techteachersandstudents?si=hSTllY4EaAz32fXE). To put my skills to the test, I practiced making a timetable to organise my week! It has been helpful to visualise my tasks and easily sort them by urgency and time, and it has already proven to be a valuable tool in organising my day. ☀️
+
+I’ve successfully completed the [Git course](https://www.codecademy.com/enrolled/courses/learn-git) on CodeCademy, and it has been incredibly useful for me, particularly in the running of this blog! One thing I have yet to successfully achieve however are merging branches.  I attempted to make a branch on this website in order to edit the colour of the sidebar, but I got lost on how to push and merge changes from this branch to the main branch, producing many errors and uncomplete builds! I aim to figure out how to achieve this over the coming weeks so I can personalise the website further. 
+
+I’ve also started the [Learn Python 3] (https://www.codecademy.com/enrolled/courses/learn-python-3) course on CodeCademy. I've completed the first three lessons, covering printing, control flow and lists! I've noticed that it is quite similar to R, but with a different syntax. CodeCademy also provides very useful projects, which have allowed me to put my skills to the test. One such project I liked making was the 'Magic 8 Ball' project, in which using control flow I assigned answers to the ball using a random number generator. [Give it a go!](https://github.com/isabellemartin078/learn-python-3-projects/tree/main/3_magic_8_ball) 🎱
+
+ 
